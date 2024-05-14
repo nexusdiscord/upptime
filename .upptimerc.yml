@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: SubDL
-    url: https://subdl.com/api-doc
+    url: https://subdl.com
   - name: SubDL API
     url: https://api.subdl.com/api/v1/subtitles
     icon: https://subdl.com/logo/fav-circle.png
