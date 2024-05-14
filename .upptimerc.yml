@@ -7,15 +7,8 @@ sites:
     url: https://subdl.com
   - name: SubDL API
     url: https://api.subdl.com/api/v1/subtitles
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: SubDL Stremio Addon
+    url: https://stremio-subdl.vercel.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
