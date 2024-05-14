@@ -7,6 +7,8 @@ sites:
     url: https://subdl.com
   - name: SubDL API
     url: https://api.subdl.com/api/v1/subtitles
+    headers:
+      - "Content-Type: application/json"
   - name: SubDL Stremio Addon
     url: https://stremio-subdl.vercel.app
 
