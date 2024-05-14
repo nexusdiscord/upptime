@@ -7,6 +7,7 @@ sites:
     url: https://subdl.com
   - name: SubDL API
     url: https://api.subdl.com/api/v1/subtitles
+    icon: https://subdl.com/logo/fav-circle.png
     headers:
       - "Content-Type: application/json"
   - name: SubDL Stremio Addon
