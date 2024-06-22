@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stremio-subdl.vercel.app.ico",
     "slug": "sub-dl-stremio-addon",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 56,
-    "timeWeek": 79,
-    "timeMonth": 171,
-    "timeYear": 156,
+    "uptime": "98.99%",
+    "uptimeDay": "60.53%",
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.99%",
+    "time": 153,
+    "timeDay": 44,
+    "timeWeek": 73,
+    "timeMonth": 169,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-06-21": 0
+      "2024-06-22": 69,
+      "2024-06-21": 499
     }
   }
 ]
