@@ -4,19 +4,19 @@
     "url": "https://dubbindo.strem.bar",
     "icon": "https://icons.duckduckgo.com/ip3/dubbindo.strem.bar.ico",
     "slug": "dubbing-indonesia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 500,
-    "timeWeek": 310,
-    "timeMonth": 358,
-    "timeYear": 352,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 349,
+    "timeDay": 365,
+    "timeWeek": 298,
+    "timeMonth": 353,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2024-08-21": 0
+      "2024-08-21": 9
     }
   },
   {
