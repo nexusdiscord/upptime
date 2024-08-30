@@ -1,22 +1,22 @@
 [
   {
     "name": "Dubbing Indonesia",
-    "url": "https://dubbindo.strem.bar",
-    "icon": "https://icons.duckduckgo.com/ip3/dubbindo.strem.bar.ico",
+    "url": "https://f7094476a780-dubbindo.baby-beamup.club",
+    "icon": "https://icons.duckduckgo.com/ip3/f7094476a780-dubbindo.baby-beamup.club.ico",
     "slug": "dubbing-indonesia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 319,
-    "timeWeek": 256,
-    "timeMonth": 355,
-    "timeYear": 329,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "77.56%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.49%",
+    "time": 345,
+    "timeDay": 591,
+    "timeWeek": 353,
+    "timeMonth": 379,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2024-08-30": 0
+      "2024-08-30": 323
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 207,
-    "timeWeek": 213,
-    "timeMonth": 252,
-    "timeYear": 274,
+    "time": 275,
+    "timeDay": 271,
+    "timeWeek": 229,
+    "timeMonth": 255,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 158,
-    "timeWeek": 383,
-    "timeMonth": 299,
-    "timeYear": 284,
+    "time": 285,
+    "timeDay": 234,
+    "timeWeek": 374,
+    "timeMonth": 300,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   }
 ]
