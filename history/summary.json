@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/f7094476a780-dubbindo.baby-beamup.club.ico",
     "slug": "dubbing-indonesia",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.79%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.53%",
-    "time": 370,
-    "timeDay": 492,
-    "timeWeek": 570,
-    "timeMonth": 422,
-    "timeYear": 370,
+    "uptimeYear": "99.54%",
+    "time": 367,
+    "timeDay": 211,
+    "timeWeek": 562,
+    "timeMonth": 415,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2024-08-30": 323
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 266,
-    "timeWeek": 222,
-    "timeMonth": 248,
-    "timeYear": 268,
+    "time": 266,
+    "timeDay": 188,
+    "timeWeek": 219,
+    "timeMonth": 243,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 205,
-    "timeWeek": 385,
-    "timeMonth": 296,
-    "timeYear": 281,
+    "time": 280,
+    "timeDay": 185,
+    "timeWeek": 257,
+    "timeMonth": 288,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   }
 ]
