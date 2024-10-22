@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/subdl.strem.bar.ico",
     "slug": "sub-dl-subtitles",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 265,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 264,
     "timeDay": 252,
-    "timeWeek": 281,
-    "timeMonth": 261,
-    "timeYear": 265,
-    "dailyMinutesDown": {
-      "2024-10-21": 9
-    }
+    "timeWeek": 280,
+    "timeMonth": 259,
+    "timeYear": 264,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SubSource Subtitles",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/subsource.strem.bar.ico",
     "slug": "sub-source-subtitles",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 534,
-    "timeWeek": 373,
+    "timeDay": 555,
+    "timeWeek": 374,
     "timeMonth": 291,
     "timeYear": 280,
-    "dailyMinutesDown": {
-      "2024-10-21": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
