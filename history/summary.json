@@ -4,35 +4,39 @@
     "url": "https://subdl.strem.bar",
     "icon": "https://icons.duckduckgo.com/ip3/subdl.strem.bar.ico",
     "slug": "sub-dl-subtitles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 252,
-    "timeWeek": 280,
-    "timeMonth": 259,
-    "timeYear": 264,
-    "dailyMinutesDown": {}
+    "time": 263,
+    "timeDay": 219,
+    "timeWeek": 264,
+    "timeMonth": 254,
+    "timeYear": 263,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "SubSource Subtitles",
     "url": "https://subsource.strem.bar",
     "icon": "https://icons.duckduckgo.com/ip3/subsource.strem.bar.ico",
     "slug": "sub-source-subtitles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 555,
-    "timeWeek": 374,
-    "timeMonth": 291,
-    "timeYear": 280,
-    "dailyMinutesDown": {}
+    "time": 278,
+    "timeDay": 437,
+    "timeWeek": 345,
+    "timeMonth": 285,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
