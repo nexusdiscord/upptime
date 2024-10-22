@@ -4,19 +4,19 @@
     "url": "https://subdl.strem.bar",
     "icon": "https://icons.duckduckgo.com/ip3/subdl.strem.bar.ico",
     "slug": "sub-dl-subtitles",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 263,
-    "timeDay": 219,
-    "timeWeek": 264,
+    "timeDay": 223,
+    "timeWeek": 261,
     "timeMonth": 254,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://subsource.strem.bar",
     "icon": "https://icons.duckduckgo.com/ip3/subsource.strem.bar.ico",
     "slug": "sub-source-subtitles",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 437,
-    "timeWeek": 345,
-    "timeMonth": 285,
-    "timeYear": 278,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 277,
+    "timeDay": 386,
+    "timeWeek": 331,
+    "timeMonth": 282,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 9
     }
   }
 ]
