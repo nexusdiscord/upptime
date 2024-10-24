@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 316,
-    "timeWeek": 256,
-    "timeMonth": 253,
+    "timeDay": 201,
+    "timeWeek": 239,
+    "timeMonth": 254,
     "timeYear": 263,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/subsource.strem.bar.ico",
     "slug": "sub-source-subtitles",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 282,
-    "timeDay": 449,
-    "timeWeek": 356,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 281,
+    "timeDay": 374,
+    "timeWeek": 344,
     "timeMonth": 293,
-    "timeYear": 282,
-    "dailyMinutesDown": {
-      "2024-10-23": 8
-    }
+    "timeYear": 281,
+    "dailyMinutesDown": {}
   }
 ]
