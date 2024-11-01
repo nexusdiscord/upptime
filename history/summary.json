@@ -4,18 +4,20 @@
     "url": "https://subdl.strem.bar",
     "icon": "https://icons.duckduckgo.com/ip3/subdl.strem.bar.ico",
     "slug": "sub-dl-subtitles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 359,
-    "timeWeek": 284,
-    "timeMonth": 261,
-    "timeYear": 263,
-    "dailyMinutesDown": {}
+    "time": 264,
+    "timeDay": 355,
+    "timeWeek": 292,
+    "timeMonth": 263,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2024-11-01": 0
+    }
   },
   {
     "name": "SubSource Subtitles",
