@@ -22,17 +22,19 @@
     "url": "https://subsource.strem.bar",
     "icon": "https://icons.duckduckgo.com/ip3/subsource.strem.bar.ico",
     "slug": "sub-source-subtitles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 450,
-    "timeWeek": 315,
-    "timeMonth": 337,
-    "timeYear": 291,
-    "dailyMinutesDown": {}
+    "time": 292,
+    "timeDay": 446,
+    "timeWeek": 330,
+    "timeMonth": 340,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2025-01-04": 0
+    }
   }
 ]
