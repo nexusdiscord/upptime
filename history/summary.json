@@ -4,18 +4,19 @@
     "url": "https://subdl.strem.bar",
     "icon": "https://icons.duckduckgo.com/ip3/subdl.strem.bar.ico",
     "slug": "sub-dl-subtitles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 255,
-    "timeWeek": 399,
-    "timeMonth": 366,
+    "timeDay": 263,
+    "timeWeek": 383,
+    "timeMonth": 363,
     "timeYear": 292,
     "dailyMinutesDown": {
+      "2025-02-27": 0,
       "2025-02-12": 15
     }
   },
