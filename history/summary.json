@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 579,
-    "timeDay": 550,
-    "timeWeek": 547,
-    "timeMonth": 546,
+    "time": 580,
+    "timeDay": 543,
+    "timeWeek": 540,
+    "timeMonth": 552,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2026-01-01": 887,
@@ -31,8 +31,7 @@
       "2025-04-14": 107,
       "2025-04-12": 81,
       "2025-04-07": 148,
-      "2025-03-30": 16,
-      "2025-02-12": 15
+      "2025-03-30": 16
     }
   },
   {
@@ -47,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 565,
-    "timeDay": 579,
-    "timeWeek": 858,
-    "timeMonth": 694,
+    "timeDay": 556,
+    "timeWeek": 864,
+    "timeMonth": 666,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2026-01-01": 886,
@@ -75,16 +74,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gtsubs.strem.top.ico",
     "slug": "gt-subs",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.63%",
-    "time": 876,
-    "timeDay": 657,
-    "timeWeek": 535,
-    "timeMonth": 502,
-    "timeYear": 876,
+    "uptimeYear": "98.66%",
+    "time": 872,
+    "timeDay": 707,
+    "timeWeek": 529,
+    "timeMonth": 514,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2026-01-01": 885
     }
